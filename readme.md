@@ -1,4 +1,4 @@
-This is a simple python script I wrote to parse [National Hurricane Center's data feed](http://www.nhc.noaa.gov/gis/) for it's GIS hurricane forecast shapefile.
+This is a simple python script I wrote to parse the [National Hurricane Center's data feed](http://www.nhc.noaa.gov/gis/) for it's GIS hurricane forecast shapefile.
 
 Then, it downloads the file to an SFTP server for use in my apps.
 
