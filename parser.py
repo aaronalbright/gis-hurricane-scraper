@@ -2,7 +2,6 @@ import feedparser
 import requests
 import time
 import pysftp
-import sys
 from keys import HOST, PASSWORD, USERNAME, DEST
 
 # downlaods shapefile to SFTP server
