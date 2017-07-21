@@ -68,8 +68,5 @@ while True:
                 else:
                     print "No new shapefile"
                     print "----------------"
-            else:
-                print "Still no GIS shapefile"
-                print "----------------------"
 
     time.sleep(300)
